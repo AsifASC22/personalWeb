@@ -1,0 +1,40 @@
+div {
+    font-family: Helvetica;
+    background-color: burlywood;
+    color: rgb(119, 119, 119);
+    font-size: 32px;
+    padding: 5px;
+ }
+  
+ #big_div {
+    display: flex;
+    justify-content: space-evenly;
+ }
+  
+ img {
+    width: 60px;
+ }
+  
+ .items:hover {
+    background-color: gray;
+    opacity: 0.5;
+ }
+  
+ a {
+    width: 20%;
+    text-align: center;
+    text-decoration: none;
+ }
+
+ #circle {
+    
+    width: 100px;
+    height: 100px;
+    -webkit-border-radius: 50px;
+    -moz-border-radius: 50px;
+    border-radius: 50px;
+    background: rgb(244, 205, 9);
+    
+
+  }
+ 
